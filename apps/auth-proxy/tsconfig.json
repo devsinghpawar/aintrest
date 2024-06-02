@@ -1,0 +1,4 @@
+{
+  "extends": "@aintrest/tsconfig/base.json",
+  "include": ["routes"]
+}
